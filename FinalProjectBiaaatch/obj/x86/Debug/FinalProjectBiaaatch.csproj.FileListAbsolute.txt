@@ -1,0 +1,16 @@
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\bin\x86\Debug\FinalProjectBiaaatch.exe.config
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\bin\x86\Debug\FinalProjectBiaaatch.exe
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\bin\x86\Debug\FinalProjectBiaaatch.pdb
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Form1.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Form2.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Form3.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Form4.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Form5.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Form6.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Form7.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Form8.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.Properties.Resources.resources
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.csproj.GenerateResource.Cache
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.exe
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.pdb
+C:\Users\Mahe\Desktop\DBMS Project\FinalProjectBiaaatch\FinalProjectBiaaatch\obj\x86\Debug\FinalProjectBiaaatch.csprojResolveAssemblyReference.cache
